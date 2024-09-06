@@ -1,0 +1,19 @@
+current directory: /home/abdelkarim/quote-editor/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+/home/abdelkarim/.rvm/rubies/ruby-3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/abdelkarim/quote-editor/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240905-20036-ju7abi sitelibdir\=./.gem.20240905-20036-ju7abi clean
+
+current directory: /home/abdelkarim/quote-editor/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240905-20036-ju7abi sitelibdir\=./.gem.20240905-20036-ju7abi
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/abdelkarim/quote-editor/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240905-20036-ju7abi sitelibdir\=./.gem.20240905-20036-ju7abi install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240905-20036-ju7abi/debug
+
+current directory: /home/abdelkarim/quote-editor/vendor/bundle/ruby/3.2.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240905-20036-ju7abi sitelibdir\=./.gem.20240905-20036-ju7abi clean
